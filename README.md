@@ -13,6 +13,7 @@ ElinMods は **NANINuko (なにぬぬこ)** が公開する Elin 用 Mod 集で�
 
 ## 非公開 Mod
 - `WellWish` — 願いがかなえられるようになると通知するMod
+- `CharacterStatuePatch` — 建築用途の彫像色修正＆彫像テーブル拡大Mod
 
 ## インストール
 ### Steam Workshop
