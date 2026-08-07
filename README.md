@@ -12,7 +12,7 @@ ElinMods は **NANINuko (なにぬぬこ)** が公開する Elin 用 Mod 集で�
 - `WorldWeave` — 野外マップ生成時のテンプレート建築配置 Mod
 
 ## 非公開 Mod
-- なし
+- `WellWish` — 願いがかなえられるようになると通知するMod
 
 ## インストール
 ### Steam Workshop
