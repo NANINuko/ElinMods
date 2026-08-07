@@ -14,7 +14,7 @@
 ### 手動インストール（非推奨）
 1. リポジトリをクローンまたはダウンロード  
    ```bash
-   git clone https://github.com/あなた/ElinMods.git
+   git clone git clone https://github.com/NANINuko/ElinMods.git
    ```
 2. `WorldWeave` フォルダをゲームの `Elin/Package/` 配下にコピー
 
