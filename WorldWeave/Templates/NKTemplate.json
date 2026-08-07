@@ -1,0 +1,197 @@
+{
+  "enabled": true,
+  "spawnChance": 0.1,
+  "weight": 1,
+  "maxPerMap": 5,
+  "replaceExisting": true,
+  "zoneTypes": [ "Zone_Field" ],
+  "biomes": [],
+  "activeRect": { "x": 1, "z": 1, "w": 1, "h": 1 },
+  "variants": [
+    {
+      "id": "well",
+      "spawnChance": 0.10,
+      "activeRect": { "x": 2, "z": 3, "w": 2, "h": 2 }
+    },
+    {
+      "id": "holywell",
+      "spawnChance": 0.01,
+      "weight": 10,
+      "activeRect": { "x": 1, "z": 3, "w": 2, "h": 2 }
+    },
+    {
+      "id": "fallentree",
+      "spawnChance": 0.12,
+      "activeRect": { "x": 1, "z": 5, "w": 2, "h": 2 }
+    },
+    {
+      "id": "fallentreewithriceball",
+      "spawnChance": 0.12,
+      "activeRect": { "x": 3, "z": 5, "w": 2, "h": 2 }
+    },
+    {
+      "id": "busstop",
+      "spawnChance": 0.08,
+      "activeRect": { "x": 10, "z": 4, "w": 4, "h": 4 }
+    },
+    {
+      "id": "vineyard",
+      "spawnChance": 0.07,
+      "activeRect": { "x": 10, "z": 10, "w": 6, "h": 8 }
+    },
+    {
+      "id": "kizuamialtar",
+      "spawnChance": 0.10,
+      "activeRect": { "x": 16, "z": 10, "w": 3, "h": 3 }
+    },
+    {
+      "id": "holomealtar",
+      "spawnChance": 0.10,
+      "activeRect": { "x": 16, "z": 12, "w": 3, "h": 3 }
+    },
+    {
+      "id": "distilleryhut",
+      "spawnChance": 0.07,
+      "activeRect": { "x": 10, "z": 20, "w": 9, "h": 9 }
+    },
+    {
+      "id": "hangedskeleton",
+      "spawnChance": 0.05,
+      "activeRect": { "x": 10, "z": 32, "w": 3, "h": 3 }
+    },
+    {
+      "id": "hangedmeatsack",
+      "spawnChance": 0.05,
+      "activeRect": { "x": 10, "z": 34, "w": 3, "h": 3 }
+    },
+    {
+      "id": "minicampsite",
+      "spawnChance": 0.10,
+      "activeRect": { "x": 10, "z": 36, "w": 3, "h": 3 }
+    },
+    {
+      "id": "gallows",
+      "spawnChance": 0.07,
+      "activeRect": { "x": 11, "z": 41, "w": 5, "h": 4 }
+    },
+    {
+      "id": "decayedbigdaddy",
+      "spawnChance": 0.05,
+      "activeRect": { "x": 1, "z": 40, "w": 3, "h": 2 }
+    },
+    {
+      "id": "decayedadventurer",
+      "spawnChance": 0.10,
+      "activeRect": { "x": 1, "z": 42, "w": 3, "h": 2 }
+    },
+    {
+      "id": "decayedtank",
+      "spawnChance": 0.03,
+      "weight": 10,
+      "activeRect": { "x": 1, "z": 44, "w": 3, "h": 2 }
+    },
+    {
+      "id": "fakeholysword",
+      "spawnChance": 0.04,
+      "weight": 10,
+      "activeRect": { "x": 2, "z": 53, "w": 3, "h": 3 }
+    },
+    {
+      "id": "largecampsite",
+      "spawnChance": 0.04,
+      "weight": 10,
+      "activeRect": { "x": 11, "z": 50, "w": 8, "h": 9 }
+    },
+    {
+      "id": "shabbygrave",
+      "spawnChance": 0.08,
+      "activeRect": { "x": 1, "z": 60, "w": 8, "h": 9 }
+    },
+    {
+      "id": "slide",
+      "spawnChance": 0.05,
+      "activeRect": { "x": 10, "z": 60, "w": 9, "h": 9 }
+    },
+    {
+      "id": "fishcookingstation",
+      "spawnChance": 0.07,
+      "activeRect": { "x": 2, "z": 74, "w": 3, "h": 3 }
+    },
+    {
+      "id": "ramenstall",
+      "spawnChance": 0.06,
+      "activeRect": { "x": 1, "z": 81, "w": 4, "h": 6 }
+    },
+    {
+      "id": "eternalmonument",
+      "spawnChance": 0.04,
+      "weight": 10,
+      "activeRect": { "x": 10, "z": 70, "w": 9, "h": 9 }
+    },
+    {
+      "id": "windyhighland",
+      "spawnChance": 0.03,
+      "weight": 10,
+      "activeRect": { "x": 1, "z": 90, "w": 8, "h": 9 }
+    },
+    {
+      "id": "lizardmandwelling",
+      "spawnChance": 0.04,
+      "weight": 10,
+      "activeRect": { "x": 10, "z": 85, "w": 9, "h": 14 }
+    },
+    {
+      "id": "farmerhouse1",
+      "spawnChance": 0.04,
+      "weight": 10,
+      "activeRect": { "x": 20, "z": 3, "w": 19, "h": 14 }
+    },
+    {
+      "id": "bamboogrove",
+      "spawnChance": 0.07,
+      "activeRect": { "x": 30, "z": 20, "w": 9, "h": 9 }
+    },
+    {
+      "id": "coinlaundry",
+      "spawnChance": 0.02,
+      "weight": 10,
+      "activeRect": { "x": 22, "z": 52, "w": 15, "h": 14 }
+    },
+    {
+      "id": "usualvacantlot",
+      "spawnChance": 0.04,
+      "weight": 10,
+      "activeRect": { "x": 19, "z": 70, "w": 10, "h": 10 }
+    },
+    {
+      "id": "bandithideout",
+      "spawnChance": 0.04,
+      "weight": 10,
+      "activeRect": { "x": 20, "z": 80, "w": 9, "h": 17 }
+    },
+    {
+      "id": "waterlilygarden",
+      "spawnChance": 0.01,
+      "weight": 10,
+      "activeRect": { "x": 30, "z": 80, "w": 19, "h": 19 }
+    },
+    {
+      "id": "minifortress",
+      "spawnChance": 0.01,
+      "weight": 10,
+      "activeRect": { "x": 40, "z": 1, "w": 19, "h": 18 }
+    },
+    {
+      "id": "abandonedlaboratory",
+      "spawnChance": 0.01,
+      "weight": 10,
+      "activeRect": { "x": 70, "z": 1, "w": 29, "h": 28 }
+    },
+    {
+      "id": "fishingguild",
+      "spawnChance": 0.01,
+      "weight": 10,
+      "activeRect": { "x": 70, "z": 30, "w": 29, "h": 29 }
+    }
+  ]
+}
