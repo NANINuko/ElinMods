@@ -14,19 +14,11 @@ ElinMods は **NANINuko (なにぬぬこ)** が公開する Elin 用 Mod 集で�
 ## 非公開 Mod
 - `WellWish` — 願いがかなえられるようになると通知するMod
 - `CharacterStatuePatch` — 建築用途の彫像色修正＆彫像テーブル拡大Mod
+- `VoiSonaTalkAddon` —  KK Elin With TTSにVoiSonaTalk(雨衣)を追加、ドラマ読み上げ機能追加Mod
 
 ## インストール
 ### Steam Workshop
 - Steam ワークショップページ: [https://steamcommunity.com/profiles/76561199610393202/myworkshopfiles/](https://steamcommunity.com/profiles/76561199610393202/myworkshopfiles/)
 
-### 手動インストール（非推奨）
-1. リポジトリをクローンまたはダウンロード  
-   `git clone https://github.com/あなた/ElinMods.git`
-2. 必要な Mod フォルダをゲームの `Elin/Package/` 配下にコピー
-
 ## 開発環境とビルド
-- Visual Studio または `dotnet` を使用してください。  
-- 例（WorldWeave をビルドする場合）:
-  ```bash
-  cd WorldWeave
-  dotnet build
+- Visual Studio 2026
