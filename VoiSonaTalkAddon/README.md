@@ -26,13 +26,14 @@ VoiSona Talk のローカル API と連携し、音声合成を行います。�
 - Elin
 - BepInEx
 - KK Elin With TTS
+  　(https://steamcommunity.com/sharedfiles/filedetails/?id=3813210016)
 - VoiSona Talk
 
 ---
 
 ## インストール
 
-1. VoiSona Talk をインストールし、ローカル API を起動できる状態にする。
+1. VoiSona Talk をビルドし、ローカル API を起動できる状態にする。
 2. ビルド済み DLL（`VoiSonaTalkForElin.dll`）を用意する。
 3. ゲームの Mod 配置先（例: `Elin/Package/`）にフォルダを作成し、DLL を配置する。
 4. ゲームを起動して動作を確認する。
