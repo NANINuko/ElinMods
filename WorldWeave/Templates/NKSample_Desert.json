@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "spawnChance": 0.05,
+  "weight": 100,
+  "maxPerMap": 1,
+  "replaceExisting": true,
+  "zoneTypes": ["Zone_Field"],
+  "biomes": ["Sand"],
+  "activeRect": { "x": 33, "z": 35, "w": 33, "h": 30 }
+}
